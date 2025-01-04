@@ -1,0 +1,15 @@
+.blog{
+    margin: 2px solid;
+    background-color: aqua;
+    border: 2px solid white;
+
+}
+img{
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+body{
+    background-color: black;
+}
